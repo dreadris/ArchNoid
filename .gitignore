@@ -1,0 +1,13 @@
+/.vs/ArchNoid/v14/*.suo
+/.vs/ArchNoid/v15/*.suo
+*.csproj
+/*.sln
+/.vs
+/*.userprefs
+*.meta
+Library
+Builds
+obj
+Standard Assets
+Zenject
+UnityVS
